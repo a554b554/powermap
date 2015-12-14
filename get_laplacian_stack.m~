@@ -1,0 +1,11 @@
+function [ lap_stack ] = get_laplacian_stack( img_double, n )
+%UNTITLED Summary of this function goes here
+% get laplacian stack of a image
+%   Detailed explanation goes here
+lap_stack = {}
+for i = 1:n
+    if i
+
+
+end
+
